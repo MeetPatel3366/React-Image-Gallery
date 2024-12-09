@@ -1,1 +1,1 @@
-# React-Image-Gallery
+# React + Vite + Tailwind C
