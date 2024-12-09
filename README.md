@@ -1,1 +1,2 @@
-# React + Vite + Tailwind C
+<h1>Image Gallery</h1>
+<p>React + Vite + Tailwind CSS</p>
